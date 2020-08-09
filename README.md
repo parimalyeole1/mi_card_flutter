@@ -1,4 +1,4 @@
-![Jocker Banner](images/joker_card_app.png?raw=true "App final look"))
+![Jocker Banner](images/joker_card_app.png?raw=true "App final look")
 
 # Mi Card
 

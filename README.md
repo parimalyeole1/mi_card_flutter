@@ -1,6 +1,6 @@
 ![Jocker Banner](images/joker_card_app.png?raw=true "App final look")
 
-# Mi Card
+# Joker Card
 
 
 ## Use of flutter widget
